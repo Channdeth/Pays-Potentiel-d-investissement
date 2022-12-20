@@ -1,4 +1,4 @@
-# Pays-Potentiel-en-investissement
+# Pays-Potentiel-en-investissement-pour-education
 Stratégies d'investissement: Recherche de pays potentiels pour un investissement dans l'éducation
 
 Bienvenue sur le github présentant notre projet.
