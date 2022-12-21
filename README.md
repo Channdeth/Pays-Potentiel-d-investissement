@@ -11,3 +11,4 @@ Notebooks contenant les codes et documentés: fichier html, fichier ipynb
 Data_source:https://minio.lab.sspcloud.fr/csok/donnees.csv
 
 Lien notebook project final: Github https://github.com/Channdeth/Pays-Potentiel-en-investissement-pour-education/blob/main/Projet_Final_python.ipynb
+
