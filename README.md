@@ -10,5 +10,5 @@ L'objectif Ã©tait d'identifier les pays pour un meilleur investissement dans l'Ã
 
 
 Data_source:https://minio.lab.sspcloud.fr/csok/education_stats.csv
-Lien notebook project final: Github[1]
-[1]https://github.com/Channdeth/Pays-Potentiel-en-investissement-pour-education/blob/main/Projet%20Final.ipynb
+
+Lien notebook project final: Github : https://github.com/Channdeth/Pays-Potentiel-en-investissement-pour-education/blob/main/Projet%20Final.ipynb
