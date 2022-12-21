@@ -3,7 +3,8 @@ Stratégies d'investissement: Recherche de pays potentiels pour un investissemen
 
 Bienvenue sur le github présentant notre projet.
 
-L'objectif était d'identifier les pays pour un meilleur investissement dans l'éducation. Il s'agit de répondre aux besoins d'une entreprise qui souhaiterait investir dans l'éducation pour son projet d’expansion à l’international. On s'est servi alors des données sur l’éducation de la banque mondiale.
+L'objectif était d'identifier les pays pour un meilleur investissement dans l'éducation. Des indicateurs ont été construits afin d'ordonner les pays selon les opportunites qu'ils presentent en termes d'investissement dans l'education. Plusieurs methodes statisques ont été utilisées( Visualisation, ACP, scoring, etc.).
+On s'est servi alors des données sur l’éducation de la banque mondiale.
 # Récapitulatif des notebooks présents sur notre Github :
 
 
